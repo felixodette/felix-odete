@@ -27,17 +27,17 @@ function AboutCard() {
             <li className="about-activity">
               <ImPointRight />
               {' '}
-              Playing Games
+              Work on AI and Data Science Projects
             </li>
             <li className="about-activity">
               <ImPointRight />
               {' '}
-              Writting Tech Blogs
+              Writing Tech Blogs
             </li>
             <li className="about-activity">
               <ImPointRight />
               {' '}
-              Travelling
+              Cycling
             </li>
           </ul>
 

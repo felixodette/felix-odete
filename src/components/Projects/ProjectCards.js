@@ -44,3 +44,5 @@ function ProjectCards(props) {
   );
 }
 export default ProjectCards;
+
+/* eslint-enable */
