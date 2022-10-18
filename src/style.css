@@ -1,3 +1,5 @@
+/* stylelint-disable */
+
 html {
   --section-background-color:
     linear-gradient(
@@ -772,3 +774,5 @@ button:focus {
 .fork-btn-inner::after {
   display: none !important;
 }
+
+/* stylelint-enable */
